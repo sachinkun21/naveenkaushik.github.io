@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 2
+date: 2024-04-17
+img: ExcelProject.webp
+alt: image-alt
+project-date: April 2024
+client: Claire Mangements
+category: Excel 
+description: |
+ <p>Developed an interactive <strong>Excel-based dashboard</strong> for <strong>Claire Mangements</strong>, enabling them to visualize and analyze key business metrics in real-time. The dashboard was designed to streamline reporting processes and provide actionable insights for decision-making.</p>
+
+  <p>This project significantly improved the client's ability to monitor performance metrics and make data-driven decisions efficiently.</p>
+  |
+---

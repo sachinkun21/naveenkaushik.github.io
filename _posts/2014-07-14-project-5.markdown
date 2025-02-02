@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 5
+date: 2025-01-10
+img: Linear-Regression-in-Excel.webp
+alt: image-alt
+project-date: Jan 2025
+client: DataWise Analytics
+category: Statistical Analysis & Predictive Modeling
+description: |
+
+  <p>Performed <strong>Linear Regression analysis</strong> using Excel for <strong>DataWise Analytics</strong>, enabling them to predict key business outcomes based on historical data. The project involved data preparation, model building, and validation to ensure accurate and reliable predictions.</p>
+
+  <p>The analysis included identifying key variables, calculating regression coefficients, and interpreting results to provide actionable insights. Visualizations such as scatter plots and trend lines were created to illustrate the relationships between variables and the model's predictions.</p>
+
+  <p>This project empowered DataWise Analytics to make data-driven decisions, optimize processes, and improve forecasting accuracy.</p>
+---
+

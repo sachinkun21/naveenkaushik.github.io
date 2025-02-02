@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 6
+date: 2025-02-01
+img: powerbi2.png
+alt: image-alt
+project-date: Feb 2025
+client: KPI Solutions
+category: Recruitment Analytics
+description: |
+
+  <p>Developed a <strong>Power BI Dashboard</strong> for <strong>TalentFlow Solutions</strong> to track and visualize key recruitment KPIs, including time-to-hire, cost-per-hire, and candidate conversion rates. The dashboard provided real-time insights into recruitment performance, enabling data-driven decision-making.</p>
+
+  <p>The project involved integrating data from multiple sources, designing interactive visualizations, and creating user-friendly filters for dynamic reporting. The dashboard also included trend analysis and benchmarking against industry standards.</p>
+
+  <p>This project streamlined TalentFlow Solutions' recruitment processes, improved efficiency, and enhanced their ability to monitor and optimize hiring strategies.</p>
+---

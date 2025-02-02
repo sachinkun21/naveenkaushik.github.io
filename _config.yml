@@ -1,0 +1,97 @@
+# Site settings
+title: "BI Analyst & Mentor"
+email: navinkaushik281@gmail.com
+url: https://navinkaushik.github.io
+description: "Professional with 4+ years of industry experience as a Power BI Analyst and 3+ years of mentoring experience, teaching Python, SQL, Business Intelligence, and Product Management to 100+ students. Master data analysis with hands-on courses and real-world projects."
+keywords: Python Programming, Business Intelligence, Power BI Mastery, SQL for Data Analysis, Product Management Fundamentals, Data Visualization, Data Analytics, Corporate Training, Mentorship.
+skills: "Power BI | Python | SQL | Data Visualization | Business Intelligence | Product Management | Corporate Training | Mentorship"
+meta_author: Naveen Kaushik
+
+# Google webmaster tools
+google_verify: YOUR_GOOGLE_VERIFICATION_CODE
+
+
+# Contact form
+contact: static
+
+# Disqus
+disqus_shortname: naveen
+
+# Color settings
+color:
+  primary: 18bc9c
+  primary-rgb: "24, 188, 156"
+  secondary: 2c3e50
+  secondary-dark: 233140
+
+
+# Footer settings
+footer:
+  copyright: "© 2023 Naveen Kaushik. All rights reserved."
+  location: "Location"
+  social: "Connect with me on:"
+  credits: "For more details on personal and corporate trainings reach out to me on Whatsapp"
+
+# Social networks
+social:
+  - title: google-plus
+    url: mailto:naveenkaushik281@gmail.com
+  - title: linkedin
+    url: https://www.linkedin.com/in/your-linkedin-profile
+  - title: instagram
+    url: https://www.instagram.com/your-instagram-profile
+  - title: github
+    url: https://github.com/navinkaushik
+
+# Address
+address:
+  - line: "Rohini, Sector 22"
+  - line: "New Delhi, India - 110086"
+  - line: "Phone: +91-XXXXXXXXXX"
+  - line: "WhatsApp: https://wa.me/91XXXXXXXXXX"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
+
+# Experience
+experience:
+  - title: "Power BI Analyst"
+    company: "Your Company Name"
+    duration: "Jan 2019 - Present"
+    description: "Analyzed and visualized complex datasets to drive business decisions. Mentored junior analysts and conducted corporate training sessions."
+  - title: "Mentor & Trainer"
+    company: "Freelance"
+    duration: "Jan 2020 - Present"
+    description: "Taught Python, SQL, and Business Intelligence to 100+ students. Designed and delivered hands-on courses and real-world projects."
+
+# Testimonials
+testimonials:
+  - quote: "Naveen's mentorship helped me land my first job as a data analyst. His teaching style is practical and easy to understand."
+    author: "John Doe, Former Student"
+  - quote: "The corporate training sessions were insightful and directly applicable to our business needs."
+    author: "Jane Smith, HR Manager"
+
+# Courses Offered
+courses:
+  - title: "Python for Data Analysis"
+    description: "Learn Python programming from scratch and apply it to real-world data analysis projects."
+  - title: "Mastering Power BI"
+    description: "From beginner to advanced Power BI techniques, including DAX and data modeling."
+  - title: "SQL for Data Professionals"
+    description: "Comprehensive SQL training for querying and managing databases."
+
+# Achievements
+achievements:
+  - title: "Trained 100+ Students"
+    description: "Successfully mentored and trained over 100 students in data analysis and business intelligence."
+  - title: "Corporate Training"
+    description: "Conducted workshops and training sessions for multiple organizations."

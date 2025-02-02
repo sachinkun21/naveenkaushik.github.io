@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 4
+date: 2014-12-15
+img: Project11.webp
+alt: Exploratory Data Analysis with Python
+project-date: December 2024
+client: Data Insights Inc.
+category: Data Analysis & Visualization
+description: |
+
+  <p>Conducted <strong>Exploratory Data Analysis (EDA)</strong> using Python for <strong>Client Name</strong>, leveraging libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The project involved analyzing large datasets to uncover trends, patterns, and insights that informed strategic decision-making.</p>
+
+  <p>The analysis included data cleaning, feature engineering, and visualization of key metrics. Interactive dashboards and visualizations were created to present findings in a clear and actionable manner. The project also involved generating detailed reports to communicate insights to stakeholders.</p>
+
+  <p>This project enabled the client to better understand their data, identify opportunities for improvement, and make data-driven decisions with confidence.</p>
+---

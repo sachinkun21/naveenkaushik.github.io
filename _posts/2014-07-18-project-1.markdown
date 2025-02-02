@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2023-10-01
+img: powerbi3.png
+alt: Altus Group BI Training
+project-date: October 2023
+client: Altus Group
+category: Business Intelligence Training
+description: |
+
+  <p>Delivered comprehensive <strong>Business Intelligence (BI) training</strong> to the team at <strong>Altus Group</strong>, focusing on <strong>Power BI, SQL, and data visualization techniques</strong>. The training program was designed to enhance their data analysis capabilities and enable them to make data-driven decisions effectively.</p>
+
+  <p>This project not only strengthened their BI skills but also empowered them to leverage data for strategic decision-making.</p>
+---

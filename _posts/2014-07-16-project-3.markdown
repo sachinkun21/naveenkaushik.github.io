@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 3
+date: 2024-10-16
+img: Project14.webp
+alt: image-alt
+project-date: October 2024
+client: Coders Academy
+category: Python Programming
+description: |
+
+  <p>Delivered an <strong>Introduction to Python</strong> training program for <strong>Client Name</strong>, designed to equip participants with foundational programming skills. The course covered essential Python concepts, including variables, data types, loops, functions, and file handling.</p>
+
+  <p>Participants gained hands-on experience through practical exercises and real-world examples, enabling them to write basic Python scripts and solve programming challenges. The training also emphasized best practices for writing clean and efficient code.</p>
+
+  <p>This project successfully introduced Python to beginners, empowering them to pursue further learning and apply their skills in various domains such as data analysis, automation, and web development.</p>
+
+  |
+---
